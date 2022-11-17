@@ -1,0 +1,10 @@
+body {
+    background-size: cover;
+    background-position: center;
+    margin-top: 10px;
+}
+
+.heading {
+    box-shadow: 10px 10px 10px lightgrey;
+    margin: 30px;
+}
